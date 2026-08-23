@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+/* En CSS este combinador de descendientes esta representado por un espacio entre dos selectores */
+.container .text {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  background-color: yellow;
+}
